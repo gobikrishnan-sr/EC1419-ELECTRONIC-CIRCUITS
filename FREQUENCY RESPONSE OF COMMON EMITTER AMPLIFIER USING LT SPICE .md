@@ -29,6 +29,8 @@
 
 
 ## Graph
+![WhatsApp Image 2025-11-10 at 09 22 32_b9e1c189](https://github.com/user-attachments/assets/37043723-412b-45f9-83b6-92d93fd94896)
+
 <img width="1919" height="1003" alt="Screenshot 2025-08-11 090010" src="https://github.com/user-attachments/assets/88413dc6-a2b4-45de-918e-e35bc03fc0ad" />
 
 
